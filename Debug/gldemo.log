@@ -1,0 +1,16 @@
+﻿Build started 24/04/2018 12:38:09.
+     1>Project "D:\Uni Stuff\Coursework\Year 2\Computer Graphics\Coursework 1 - 2D Scene\CW1_2D_scene - Underwater\gldemo.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\gldemo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt gldemo.cpp
+         gldemo.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Uni Stuff\Coursework\Year 2\Computer Graphics\Coursework 1 - 2D Scene\CW1_2D_scene - Underwater\Debug\gldemo.exe" /INCREMENTAL /NOLOGO FreeImage\FreeImagePlus.lib windowscodecs.lib CoreStructures\CoreStructures.lib freeglut\freeglut.lib glew\glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Uni Stuff\Coursework\Year 2\Computer Graphics\Coursework 1 - 2D Scene\CW1_2D_scene - Underwater\Debug\gldemo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Uni Stuff\Coursework\Year 2\Computer Graphics\Coursework 1 - 2D Scene\CW1_2D_scene - Underwater\Debug\gldemo.lib" /MACHINE:X86 Debug\gldemo.obj
+         Debug\shader_setup.obj
+         Debug\stdafx.obj
+         Debug\texture_loader.obj
+         gldemo.vcxproj -> D:\Uni Stuff\Coursework\Year 2\Computer Graphics\Coursework 1 - 2D Scene\CW1_2D_scene - Underwater\Debug\gldemo.exe
+     1>Done Building Project "D:\Uni Stuff\Coursework\Year 2\Computer Graphics\Coursework 1 - 2D Scene\CW1_2D_scene - Underwater\gldemo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.45
